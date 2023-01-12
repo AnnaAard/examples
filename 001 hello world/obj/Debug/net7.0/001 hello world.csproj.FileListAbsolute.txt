@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Examples\001 hello world\bin\Debug\net7.0\001 hello world.exe
+C:\Users\User\Desktop\Examples\001 hello world\bin\Debug\net7.0\001 hello world.deps.json
+C:\Users\User\Desktop\Examples\001 hello world\bin\Debug\net7.0\001 hello world.runtimeconfig.json
+C:\Users\User\Desktop\Examples\001 hello world\bin\Debug\net7.0\001 hello world.dll
+C:\Users\User\Desktop\Examples\001 hello world\bin\Debug\net7.0\001 hello world.pdb
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\001 hello world.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\001 hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\001 hello world.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\001 hello world.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\001 hello world.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\001 hello world.dll
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\refint\001 hello world.dll
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\001 hello world.pdb
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\001 hello world.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\001 hello world\obj\Debug\net7.0\ref\001 hello world.dll
